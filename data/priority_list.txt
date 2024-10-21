@@ -1,0 +1,143 @@
+Based on the types of crimes handled by the Delhi Police and their relative priority, here is a division of the listed crimes into high-priority and low-priority categories:
+
+High Priority Keywords
+    Murder
+    Attempt to murder
+    Manslaughter
+    Assault
+    Battery
+    Kidnapping
+    Rape
+    Sexual assault
+    Domestic violence
+    Acid attacks
+    Honor killing
+    Dowry death
+    Child abuse
+    Human trafficking
+    Child abduction
+    Burglary
+    Robbery
+    Arson
+    Financial fraud
+    Bank fraud
+    Credit card fraud
+    Money laundering
+    Embezzlement
+    Bribery
+    Corruption
+    Extortion
+    Counterfeiting currency
+    Forgery
+    Identity theft
+    Online fraud
+    Cyberbullying
+    Phishing
+    Online extortion
+    Data breaches
+    Hacking
+    Unauthorized access
+    Distribution of child pornography
+    Revenge porn
+    Illegal mining
+    Environmental pollution
+    Illegal logging
+    Wildlife trafficking
+    Poaching
+    Riot
+    Drunk driving
+    Hit and run
+    Bonded labor
+    Forced labor
+    Misuse of public office
+    Election fraud
+    Sedition
+    Terrorism
+    Espionage
+    Treason
+    Animal cruelty
+    Incitement to violence
+    Human smuggling
+
+Low Priority Keywords:
+
+    Dowry harassment
+    Stalking
+    Cyberstalking
+    Molestation
+    Theft
+    Car theft
+    Shoplifting
+    Pickpocketing
+    Vandalism
+    Trespassing
+    Insurance fraud
+    Tax evasion
+    Blackmail
+    Smuggling
+    Deforestation
+    Illegal fishing
+    Public intoxication
+    Traffic violations
+    Public nuisance
+    Unlawful assembly
+    Violation of labor laws
+    Violation of building codes
+    Unauthorized construction
+    Obscenity
+    Blasphemy
+    Hate speech
+    Defamation
+    Invasion of privacy
+    Fake news dissemination
+    Illegal immigration
+
+    thanking note to Police
+    thanking_police_keywords = [
+    "Thank you police",
+    "Thanks police",
+    "Appreciate police",
+    "Grateful police",
+    "Salute police",
+    "Respect police",
+    "Kudos police",
+    "Honoring police",
+    "Gratitude police",
+    "Thank you officers",
+    "Thanks officers",
+    "Appreciate officers",
+    "Grateful officers",
+    "Salute officers",
+    "Respect officers",
+    "Kudos officers",
+    "Honoring officers",
+    "Gratitude officers",
+    "Great job police",
+    "Well done police",
+    "Good work police",
+    "Thankful police",
+    "Thank you law enforcement",
+    "Thanks law enforcement",
+    "Appreciate law enforcement",
+    "Grateful law enforcement",
+    "Salute law enforcement",
+    "Respect law enforcement",
+    "Kudos law enforcement",
+    "Honoring law enforcement",
+    "Gratitude law enforcement",
+    "Great job officers",
+    "Well done officers",
+    "Good work officers",
+    "Thankful officers",
+    "#ThankYouPolice",
+    "#ThankYouOfficers",
+    "#GratefulForPolice",
+    "#RespectPolice",
+    "#SalutePolice",
+    "#AppreciatePolice",
+    "#KudosPolice",
+    "#HonoringPolice",
+    "#ThankYouLawEnforcement"
+    ]  
+
+This categorization prioritizes crimes based on their severity and urgency in the context of the Delhi Police's typical operations and focus areas. High-priority crimes are those that typically require immediate attention due to their serious nature or potential harm to individuals and society.

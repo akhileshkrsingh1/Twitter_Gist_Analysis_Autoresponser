@@ -1,0 +1,1278 @@
+ 
+  [
+    {
+        "crime_type": "Murder",
+        "high_priority": [
+            "Within 5 or 10 hours",
+            "Involving a public figure",
+            "Multiple victims",
+            "With extreme brutality"
+        ],
+        "low_priority": [
+            "More than 10 or 15 days ago",
+            "No witnesses or evidence",
+            "Death due to negligence"
+        ]
+    },
+    {
+        "crime_type": "Attempt to Murder",
+        "high_priority": [
+            "Within a day",
+            "Involving premeditation",
+            "Victim in critical condition",
+            "In public place"
+        ],
+        "low_priority": [
+            "More than a week ago",
+            "Self-defense claim",
+            "No serious injury",
+            "In private dispute"
+        ]
+    },
+    {
+        "crime_type": "Manslaughter",
+        "high_priority": [
+            "Due to gross negligence within a few hours",
+            "Involving multiple fatalities",
+            "In public transport"
+        ],
+        "low_priority": [
+            "Unintentional",
+            "Several days old",
+            "Minor injuries",
+            "Involving self-defense"
+        ]
+    },
+    {
+        "crime_type": "Assault",
+        "high_priority": [
+            "With severe injury within hours",
+            "Against vulnerable persons",
+            "Involving weapons",
+            "Multiple assailants"
+        ],
+        "low_priority": [
+            "Minor injuries",
+            "Several days old",
+            "Involving mutual consent",
+            "No weapons involved"
+        ]
+    },
+    {
+        "crime_type": "Battery",
+        "high_priority": [
+            "Resulting in hospitalization within hours",
+            "Against a child or elderly person",
+            "With a deadly weapon"
+        ],
+        "low_priority": [
+            "Minor physical contact",
+            "Several days old",
+            "Involving a domestic dispute",
+            "No serious harm"
+        ]
+    },
+    {
+        "crime_type": "Kidnapping",
+        "high_priority": [
+            "Within a few hours",
+            "Involving ransom",
+            "Against a child",
+            "Involving multiple victims"
+        ],
+        "low_priority": [
+            "More than a week old",
+            "Involving custody disputes",
+            "No ransom demand",
+            "Victim returned safely"
+        ]
+    },
+    {
+        "crime_type": "Rape",
+        "high_priority": [
+            "Within 24 hours",
+            "Involving multiple perpetrators",
+            "Against a minor",
+            "In public or workplace"
+        ],
+        "low_priority": [
+            "Several weeks old",
+            "Involving consent dispute",
+            "No physical evidence",
+            "No injury"
+        ]
+    },
+    {
+        "crime_type": "Sexual Assault",
+        "high_priority": [
+            "Within hours",
+            "With severe physical harm",
+            "Involving multiple victims",
+            "In a public space"
+        ],
+        "low_priority": [
+            "Several days old",
+            "Involving consent issues",
+            "No injury",
+            "In a domestic setting"
+        ]
+    },
+    {
+        "crime_type": "Domestic Violence",
+        "high_priority": [
+            "Ongoing and severe",
+            "Involving weapons",
+            "Resulting in severe injuries",
+            "Against children"
+        ],
+        "low_priority": [
+            "Isolated incident",
+            "Minor injuries",
+            "Long past incidents",
+            "Involving mutual combat"
+        ]
+    },
+    {
+        "crime_type": "Acid Attacks",
+        "high_priority": [
+            "Within hours",
+            "Causing severe disfigurement",
+            "Multiple victims",
+            "In public place"
+        ],
+        "low_priority": [
+            "Several days old",
+            "Minor injuries",
+            "Personal disputes",
+            "No severe disfigurement"
+        ]
+    },
+    {
+        "crime_type": "Honor Killing",
+        "high_priority": [
+            "Within hours",
+            "Multiple family members involved",
+            "Against minors",
+            "In a public setting"
+        ],
+        "low_priority": [
+            "Several days old",
+            "Personal disputes",
+            "Single incident",
+            "In a private setting"
+        ]
+    },
+    {
+        "crime_type": "Dowry Death",
+        "high_priority": [
+            "Recent death",
+            "Severe physical abuse evidence",
+            "Multiple perpetrators",
+            "Involving extreme cruelty"
+        ],
+        "low_priority": [
+            "Several weeks old",
+            "No direct evidence",
+            "Involving mental harassment only",
+            "Long-standing disputes"
+        ]
+    },
+    {
+        "crime_type": "Dowry Harassment",
+        "high_priority": [
+            "Ongoing severe harassment",
+            "Involving physical violence",
+            "Against pregnant women",
+            "With threats of death"
+        ],
+        "low_priority": [
+            "Isolated incidents",
+            "Minor verbal harassment",
+            "Financial disputes",
+            "Long past incidents"
+        ]
+    },
+    {
+        "crime_type": "Child Abuse",
+        "high_priority": [
+            "Within hours",
+            "Severe physical or sexual abuse",
+            "Involving multiple children",
+            "In public institutions"
+        ],
+        "low_priority": [
+            "Minor physical punishment",
+            "Several weeks old",
+            "No physical evidence",
+            "Involving family disputes"
+        ]
+    },
+    {
+        "crime_type": "Stalking",
+        "high_priority": [
+            "Ongoing and persistent",
+            "Involving threats of violence",
+            "Against minors",
+            "With technological surveillance"
+        ],
+        "low_priority": [
+            "Single incident",
+            "No threats of harm",
+            "Several days old",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Cyberstalking",
+        "high_priority": [
+            "Ongoing and severe",
+            "Involving threats of harm",
+            "Against minors",
+            "With technological evidence"
+        ],
+        "low_priority": [
+            "Single incident",
+            "No threats",
+            "Several weeks old",
+            "Involving mutual acquaintances"
+        ]
+    },
+    {
+        "crime_type": "Molestation",
+        "high_priority": [
+            "Within hours",
+            "Involving minors",
+            "Severe physical harm",
+            "In public places"
+        ],
+        "low_priority": [
+            "Several days old",
+            "Involving consent dispute",
+            "No physical evidence",
+            "Minor physical contact"
+        ]
+    },
+    {
+        "crime_type": "Human Trafficking",
+        "high_priority": [
+            "Recent abduction",
+            "Involving multiple victims",
+            "With physical harm",
+            "Involving minors"
+        ],
+        "low_priority": [
+            "Several weeks old",
+            "Voluntary movement",
+            "No physical harm",
+            "Rescued victims"
+        ]
+    },
+    {
+        "crime_type": "Child Abduction",
+        "high_priority": [
+            "Within hours",
+            "Involving ransom",
+            "Against multiple children",
+            "In public places"
+        ],
+        "low_priority": [
+            "Several days old",
+            "Custody disputes",
+            "Child returned safely",
+            "No ransom demand"
+        ]
+    },
+    {
+        "crime_type": "Burglary",
+        "high_priority": [
+            "Within hours",
+            "Involving violence",
+            "Large property value",
+            "In public places"
+        ],
+        "low_priority": [
+            "Minor property value",
+            "Several days old",
+            "No violence",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Robbery",
+        "high_priority": [
+            "Within hours",
+            "Involving weapons",
+            "Against vulnerable persons",
+            "In public transport"
+        ],
+        "low_priority": [
+            "Minor property value",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Theft",
+        "high_priority": [
+            "Within hours",
+            "Large amount stolen",
+            "Involving violence",
+            "In public places"
+        ],
+        "low_priority": [
+            "Minor property value",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Car Theft",
+        "high_priority": [
+            "Within hours",
+            "High-value vehicle",
+            "Involving violence",
+            "In public places"
+        ],
+        "low_priority": [
+            "Low-value vehicle",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Shoplifting",
+        "high_priority": [
+            "Within hours",
+            "High-value goods",
+            "Involving violence",
+            "Multiple offenders"
+        ],
+        "low_priority": [
+            "Minor value goods",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Pickpocketing",
+        "high_priority": [
+            "Within hours",
+            "High-value items",
+            "Involving violence",
+            "In crowded places"
+        ],
+        "low_priority": [
+            "Minor value items",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Arson",
+        "high_priority": [
+            "Within hours",
+            "Involving multiple properties",
+            "Resulting in deaths",
+            "In public spaces"
+        ],
+        "low_priority": [
+            "Minor property damage",
+            "Several days old",
+            "No injuries",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Vandalism",
+        "high_priority": [
+            "Within hours",
+            "Large property damage",
+            "Involving violence",
+            "In public places"
+        ],
+        "low_priority": [
+            "Minor property damage",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Trespassing",
+        "high_priority": [
+            "Within hours",
+            "Involving violence",
+            "Large property damage",
+            "In public places"
+        ],
+        "low_priority": [
+            "Minor property damage",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Financial Fraud",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Bank Fraud",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Credit Card Fraud",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Insurance Fraud",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Tax Evasion",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Money Laundering",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Embezzlement",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Bribery",
+        "high_priority": [
+            "Within hours",
+            "Involving high officials",
+            "Large financial impact",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Corruption",
+        "high_priority": [
+            "Within hours",
+            "Involving high officials",
+            "Large financial impact",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Blackmail",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Extortion",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Counterfeiting Currency",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Forgery",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Smuggling",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Identity Theft",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Online Fraud",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Cyberbullying",
+        "high_priority": [
+            "Ongoing severe harassment",
+            "Involving threats of violence",
+            "Against minors",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "No threats",
+            "Several days old",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Phishing",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Online Extortion",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor financial impact",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Data Breaches",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor data involved",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Hacking",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor impact",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Unauthorized Access",
+        "high_priority": [
+            "Within hours",
+            "Large financial impact",
+            "Involving multiple victims",
+            "In public financial institutions"
+        ],
+        "low_priority": [
+            "Minor data involved",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Distribution of Child Pornography",
+        "high_priority": [
+            "Within hours",
+            "Involving minors",
+            "Multiple victims",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Revenge Porn",
+        "high_priority": [
+            "Within hours",
+            "Involving minors",
+            "Severe reputational damage",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Illegal Mining",
+        "high_priority": [
+            "Ongoing",
+            "Large environmental impact",
+            "Involving public land",
+            "Multiple perpetrators"
+        ],
+        "low_priority": [
+            "Small-scale operation",
+            "Several weeks old",
+            "Private land",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Environmental Pollution",
+        "high_priority": [
+            "Ongoing severe pollution",
+            "Involving hazardous materials",
+            "Affecting public health",
+            "Multiple perpetrators"
+        ],
+        "low_priority": [
+            "Minor pollution",
+            "Several days old",
+            "Private land",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Deforestation",
+        "high_priority": [
+            "Ongoing large-scale deforestation",
+            "Involving public land",
+            "Affecting wildlife",
+            "Multiple perpetrators"
+        ],
+        "low_priority": [
+            "Small-scale operation",
+            "Several weeks old",
+            "Private land",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Illegal Logging",
+        "high_priority": [
+            "Ongoing large-scale logging",
+            "Involving public land",
+            "Affecting wildlife",
+            "Multiple perpetrators"
+        ],
+        "low_priority": [
+            "Small-scale operation",
+            "Several weeks old",
+            "Private land",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Illegal Fishing",
+        "high_priority": [
+            "Ongoing large-scale fishing",
+            "Involving public waters",
+            "Affecting marine life",
+            "Multiple perpetrators"
+        ],
+        "low_priority": [
+            "Small-scale operation",
+            "Several weeks old",
+            "Private waters",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Wildlife Trafficking",
+        "high_priority": [
+            "Within hours",
+            "Involving endangered species",
+            "Large number of animals",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Small-scale operation",
+            "Several weeks old",
+            "Common species",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Poaching",
+        "high_priority": [
+            "Within hours",
+            "Involving endangered species",
+            "Large number of animals",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Small-scale operation",
+            "Several weeks old",
+            "Common species",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Riot",
+        "high_priority": [
+            "Within hours",
+            "Large number of participants",
+            "Severe violence",
+            "Public place"
+        ],
+        "low_priority": [
+            "Small-scale incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Public Intoxication",
+        "high_priority": [
+            "Ongoing severe disturbance",
+            "Involving large group",
+            "Affecting public safety"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Drunk Driving",
+        "high_priority": [
+            "Within hours",
+            "Causing accidents",
+            "Involving fatalities",
+            "Public road"
+        ],
+        "low_priority": [
+            "Minor accident",
+            "Several days old",
+            "No injuries",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Hit and Run",
+        "high_priority": [
+            "Within hours",
+            "Causing severe injury or death",
+            "Public road"
+        ],
+        "low_priority": [
+            "Minor injury",
+            "Several days old",
+            "No fatalities",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Traffic Violations",
+        "high_priority": [
+            "Ongoing severe violations",
+            "Causing accidents",
+            "Public road"
+        ],
+        "low_priority": [
+            "Minor violations",
+            "Several days old",
+            "No accidents",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Public Nuisance",
+        "high_priority": [
+            "Ongoing severe disturbance",
+            "Involving large group",
+            "Affecting public safety"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Unlawful Assembly",
+        "high_priority": [
+            "Ongoing severe disturbance",
+            "Involving large group",
+            "Public place"
+        ],
+        "low_priority": [
+            "Small-scale gathering",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Violation of Labor Laws",
+        "high_priority": [
+            "Ongoing severe violations",
+            "Affecting large number of workers",
+            "Involving hazardous conditions"
+        ],
+        "low_priority": [
+            "Minor violations",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Bonded Labor",
+        "high_priority": [
+            "Ongoing severe exploitation",
+            "Involving minors",
+            "Affecting large number of workers"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Forced Labor",
+        "high_priority": [
+            "Ongoing severe exploitation",
+            "Involving minors",
+            "Affecting large number of workers"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No physical harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Misuse of Public Office",
+        "high_priority": [
+            "Ongoing severe misuse",
+            "Involving high officials",
+            "Large financial impact"
+        ],
+        "low_priority": [
+            "Minor misuse",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Election Fraud",
+        "high_priority": [
+            "Ongoing severe fraud",
+            "Affecting large number of votes",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Minor fraud",
+            "Several days old",
+            "No significant impact",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Sedition",
+        "high_priority": [
+            "Within hours",
+            "Involving large group",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant impact",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Terrorism",
+        "high_priority": [
+            "Within hours",
+            "Involving large number of casualties",
+            "Public place"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant impact",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Espionage",
+        "high_priority": [
+            "Within hours",
+            "Involving national security",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant impact",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Treason",
+        "high_priority": [
+            "Within hours",
+            "Involving national security",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant impact",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Animal Cruelty",
+        "high_priority": [
+            "Within hours",
+            "Involving large number of animals",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Violation of Building Codes",
+        "high_priority": [
+            "Ongoing severe violations",
+            "Affecting public safety",
+            "Large building"
+        ],
+        "low_priority": [
+            "Minor violations",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Unauthorized Construction",
+        "high_priority": [
+            "Ongoing severe violations",
+            "Affecting public safety",
+            "Large building"
+        ],
+        "low_priority": [
+            "Minor violations",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Obscenity",
+        "high_priority": [
+            "Within hours",
+            "Involving minors",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Blasphemy",
+        "high_priority": [
+            "Within hours",
+            "Involving large group",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Hate Speech",
+        "high_priority": [
+            "Within hours",
+            "Involving large group",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Incitement to Violence",
+        "high_priority": [
+            "Within hours",
+            "Involving large group",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Defamation",
+        "high_priority": [
+            "Within hours",
+            "Involving public figures",
+            "Severe reputational damage"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Invasion of Privacy",
+        "high_priority": [
+            "Within hours",
+            "Severe reputational damage",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Fake News Dissemination",
+        "high_priority": [
+            "Within hours",
+            "Involving large group",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Illegal Immigration",
+        "high_priority": [
+            "Ongoing large-scale immigration",
+            "Involving human trafficking",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    },
+    {
+        "crime_type": "Human Smuggling",
+        "high_priority": [
+            "Within hours",
+            "Involving large number of people",
+            "Public exposure"
+        ],
+        "low_priority": [
+            "Single incident",
+            "Several days old",
+            "No significant harm",
+            "Involving known individuals"
+        ]
+    }
+]
+

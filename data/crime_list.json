@@ -1,0 +1,145 @@
+{
+  "crime": [
+    {
+      "crime_type": "Murder"
+    },
+    {
+      "crime_type": "Attempt to Murder"
+    },
+    {
+      "crime_type": "Manslaughter"
+    },
+    {
+      "crime_type": "Assault"
+    },
+    {
+      "crime_type": "Battery"
+    },
+    {
+      "crime_type": "Kidnapping"
+    },
+    {
+      "crime_type": "Rape"
+    },
+    {
+      "crime_type": "Sexual Assault"
+    },
+    {
+      "crime_type": "Domestic Violence"
+    },
+    {
+      "crime_type": "Hit and Run"
+    },
+    {
+      "crime_type": "Traffic Violations"
+    },
+    {
+      "crime_type": "Public Nuisance"
+    },
+    {
+      "crime_type": "Unlawful Assembly"
+    },
+    {
+      "crime_type": "Violation of Labor Laws"
+    },
+    {
+      "crime_type": "Bonded Labor"
+    },
+    {
+      "crime_type": "Forced Labor"
+    },
+    {
+      "crime_type": "Misuse of Public Office"
+    },
+    {
+      "crime_type": "Election Fraud"
+    },
+    {
+      "crime_type": "Sedition"
+    },
+    {
+      "crime_type": "Violation of Building Codes"
+    },
+    {
+      "crime_type": "Unauthorized Construction"
+    },
+    {
+      "crime_type": "Obscenity"
+    },
+    {
+      "crime_type": "Blasphemy"
+    },
+    {
+      "crime_type": "Hate Speech"
+    },
+    {
+      "crime_type": "Incitement to Violence"
+    },
+    {
+      "crime_type": "Defamation"
+    },
+    {
+      "crime_type": "Invasion of Privacy"
+    },
+    {
+      "crime_type": "Fake News Dissemination"
+    },
+    {
+      "crime_type": "Illegal Immigration"
+    },
+    {
+      "crime_type": "Insurance Fraud"
+    },
+    {
+      "crime_type": "Tax Evasion"
+    },
+    {
+      "crime_type": "Money Laundering"
+    },
+    {
+      "crime_type": "Embezzlement"
+    },
+    {
+      "crime_type": "Bribery"
+    },
+    {
+      "crime_type": "Corruption"
+    },
+    {
+      "crime_type": "Blackmail"
+    },
+    {
+      "crime_type": "Extortion"
+    },
+    {
+      "crime_type": "Counterfeiting Currency"
+    },
+    {
+      "crime_type": "Trespassing"
+    },
+    {
+      "crime_type": "Financial Fraud"
+    },
+    {
+      "crime_type": "Bank Fraud"
+    },
+    {
+      "crime_type": "Credit Card Fraud"
+    },
+    {
+      "crime_type": "Forgery"
+    },
+    {
+      "crime_type": "Smuggling"
+    },
+    {
+      "crime_type": "Identity Theft"
+    },
+    {
+      "crime_type": "Online Fraud"
+    },
+    {
+      "crime_type": "CyberCrime"
+    }
+  ]
+}
