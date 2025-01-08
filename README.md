@@ -1,4 +1,4 @@
-# Social Media Analysis Usecase
+# Social Media Analysis Usecases
 
 This project aims to analyze social media tweets for gist analysis, category classification, and response generation specifically for the Delhi Police's official Twitter account.
 
